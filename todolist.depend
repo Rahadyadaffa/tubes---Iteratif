@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1735397436 source:d:\todolist\todolist\todolist.cpp
+	"todolist.h"
+	<chrono>
+
+1735397185 d:\todolist\todolist\todolist.h
+	<iostream>
+	<vector>
+	<string>
+
+1735397228 source:d:\todolist\todolist\main.cpp
+	"todolist.h"
+
+1735397228 source:c:\users\desktop\downloads\todolist\todolist\todolist\main.cpp
+	"todolist.h"
+
+1735397185 c:\users\desktop\downloads\todolist\todolist\todolist\todolist.h
+	<iostream>
+	<vector>
+	<string>
+
+1735401858 source:c:\users\desktop\downloads\todolist\todolist\todolist\todolist.cpp
+	"todolist.h"
+	<chrono>
+
